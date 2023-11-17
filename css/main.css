@@ -70,7 +70,7 @@ ul li {
 }
 
 .todo li:nth-child(odd) {
-    background-color: rgba(255, 255, 255, .2) ;
+    background-color: rgba(255, 255, 255, .2);
 }
 
 .inprogress li:nth-child(odd) {
@@ -79,7 +79,7 @@ ul li {
 
 .doneli:nth-child(odd) {
     background-color: rgba(0, 255, 0, 0, .5);
-
+}
 
 
 
